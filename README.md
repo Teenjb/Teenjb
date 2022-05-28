@@ -1,7 +1,7 @@
 # 💫About Me :
-i'm currently working on collaborative Todo list
-i'm lead webiste development for IEEE SBU 2022
-I'm very intrested in network security and software development
+I'm currently working on collaborative Todo list and leading webiste development for IEEE Student Branch Universitas Indonesia 2022.
+I'm very intrested in network security and software development.
+Right now im learning react native, javascript, network automation, and pentesting.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Fateen Najib Indramustika#7649) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fateen.njb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fateen Indramustika) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FateenNajib) 
